@@ -1,0 +1,44 @@
+.col-lg-6 {
+  max-width: 370px;
+}
+
+.card {
+  border: none;
+  border-radius: 4px;
+  background-color: #fff;
+  box-shadow: 0 4px 20px 1px rgba(0, 0, 0, 0.03), 0 1px 4px rgba(0, 0, 0, 0.02);
+  /* max-width: 550px; */
+  /* padding-right: 15px;
+  padding-left: 15px; */
+}
+
+.card .signup-form {
+  padding: 25px;
+}
+
+.card .form-title {
+  margin-bottom: 10px;
+  margin-top: 0px;
+  text-transform: uppercase;
+  color: #104f8d;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+  padding: 0;
+}
+
+.form-field-group {
+  padding: 4px;
+  margin-bottom: 20px;
+}
+
+.form-action-group {
+  width: 100%;
+  padding: 0px 15px;
+  /* margin-bottom: 20px; */
+}
+
+mat-form-field {
+  width: 300px;
+}
